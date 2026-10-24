@@ -1,5 +1,75 @@
 [
   {
+    "id": 1792838812853,
+    "createdAt": "2026-10-24T10:46:52.853Z",
+    "template": "Customer Win",
+    "channel": "instagram_reel",
+    "content": "Customer Win: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Customer Win",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
+    "id": 1792838752845,
+    "createdAt": "2026-10-24T10:45:52.845Z",
+    "template": "Customer Win",
+    "channel": "instagram_reel",
+    "content": "Customer Win: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Customer Win",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
+    "id": 1792838692843,
+    "createdAt": "2026-10-24T10:44:52.843Z",
+    "template": "Behind The Scenes",
+    "channel": "instagram_reel",
+    "content": "Behind The Scenes: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Behind The Scenes",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
+    "id": 1792838632827,
+    "createdAt": "2026-10-24T10:43:52.827Z",
+    "template": "Problem Solution",
+    "channel": "instagram_reel",
+    "content": "Problem Solution: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Problem Solution",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
+    "id": 1792838572815,
+    "createdAt": "2026-10-24T10:42:52.815Z",
+    "template": "Customer Win",
+    "channel": "instagram_reel",
+    "content": "Customer Win: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Customer Win",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
+    "id": 1792838512801,
+    "createdAt": "2026-10-24T10:41:52.801Z",
+    "template": "Customer Win",
+    "channel": "instagram_reel",
+    "content": "Customer Win: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Customer Win",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
+    "id": 1792838452785,
+    "createdAt": "2026-10-24T10:40:52.785Z",
+    "template": "Customer Win",
+    "channel": "instagram_reel",
+    "content": "Customer Win: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Customer Win",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
     "id": 1792838392777,
     "createdAt": "2026-10-24T10:39:52.777Z",
     "template": "Behind The Scenes",
