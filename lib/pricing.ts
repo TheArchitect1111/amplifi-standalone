@@ -6,5 +6,5 @@ export const pricing = {
   policy: "Cancel anytime, no money back, keep access till end of billing period",
   guarantee: "You are in control. Nothing posts without your Yes on your phone. Don't love it? Don't post it. Plus redo any post with tap.",
   dba: "Amplifi by EA, a DBA of Ascension Systems, LLC",
-  supportEmail: "support@efficiencyarchitects.online forwards to info@efficiencyarchitects.online via Namecheap free forwarding"
+  supportEmail: "support@efficiencyarchitects.online alias to freedom@efficiencyarchitects.online via Private Email 10 aliases + catch-allefficiencyarchitects.online via Namecheap free forwarding"
 }
