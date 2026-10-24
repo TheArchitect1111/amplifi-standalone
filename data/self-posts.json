@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1792838392777,
+    "createdAt": "2026-10-24T10:39:52.777Z",
+    "template": "Behind The Scenes",
+    "channel": "instagram_reel",
+    "content": "Behind The Scenes: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Behind The Scenes",
+    "status": "queued",
+    "revenueTracked": false
+  },
+  {
+    "id": 1792838391767,
+    "createdAt": "2026-10-24T10:39:51.767Z",
+    "template": "Customer Win",
+    "channel": "instagram_reel",
+    "content": "Customer Win: Amplifi - 20 trials/week - See how at /free-campaign-preview",
+    "cta": "/free-campaign-preview?utm_source=amplifi-self&utm_campaign=Customer Win",
+    "status": "queued",
+    "revenueTracked": false
+  }
+]

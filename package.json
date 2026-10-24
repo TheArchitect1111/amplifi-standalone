@@ -1,0 +1,8 @@
+{
+  "name": "amplifi-standalone",
+  "type": "module",
+  "scripts": {
+    "start": "node lib/runner.js",
+    "generate": "node lib/runner.js --once"
+  }
+}
