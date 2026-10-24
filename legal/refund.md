@@ -1,5 +1,13 @@
-# Refund Policy - Amplifi
-Channel-Locked Guarantee: If we post to wrong channel/time despite guard, full refund for that month + we fix gateway.ts.
-Otherwise: Cancel anytime, no refund for current month (you keep posts generated).
-Trials: 14-day trial, 10 posts limit. After trial, need active subscription (billing guard checks subscription_status==active).
-Contact refund: support@amplifi with post ID from data/self-posts.json
+# Refund Policy - Amplifi by EA, a DBA of Ascension Systems, LLC
+
+Cancel anytime. No money back.
+
+You keep access until end of billing period.
+
+If you cancel, you will not be billed again.
+
+Why? You receive complete 5-post campaigns that you can keep and use. Each campaign is custom generated for your business goal.
+
+You are in control. Nothing posts without your Yes on your phone. Don't love it? Don't post it. Tap Redo for new version.
+
+Contact: support@efficiencyarchitects.online forwards to info@efficiencyarchitects.online

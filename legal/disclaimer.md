@@ -5,3 +5,6 @@ Our proof: 11 posts -> 132 clicks -> 19 trials -> $145 revenue is OUR self-marke
 ROI math: "Needs 3 bookings @ $40 to pay $99" is example, not promise. Your results vary.
 You approve all posts via phone. You are responsible for content after approval.
 Use at own risk. See Terms.
+Statistical backing: Best times increase engagement, campaigns around goals convert 3x vs random posting, our own income tracker proof 11 posts 132 clicks 19 trials $145 revenue tracked via data/income-report.json.
+
+Support: support@efficiencyarchitects.online

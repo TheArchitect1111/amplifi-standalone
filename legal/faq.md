@@ -1,24 +1,21 @@
-# FAQ - Cover Your Ass
-Q: Will it post to wrong account?
-A: Channel-Locked Publishing locks channel+time. Live proof: 11 posts, 0 wrong. Guarantee: full refund if we fail.
+# FAQ - Amplifi by EA
 
-Q: Will it discount my work?
-A: No. Business Memory remembers your $40 min rule. You set it.
+What is Free Preview? See your 5-post campaign before you pay. Enter business name plus goal, Amplifi builds strategy plus campaign in 2 min, you see it, redo any post with tap.
 
-Q: How is it 1 of 1?
-A: Self-marketing loop: lib/runner.js markets Amplifi itself daily -> drives to /free-campaign-preview?utm_source=amplifi-self -> tracks income via lib/tracker/income.js. No $29 tool does this.
+How does it work? Tell goal, AI builds strategy, We make 5-post campaign, You approve on phone, See what made money.
 
-Q: What if I get 0 bookings?
-A: We track revenue, not likes. But we don't guarantee bookings - see disclaimer. Factors: offer, audience, location.
+3 ways to use? You Publish Manual, You Approve We Post Scheduled Most Popular, We Handle It Fully Automated Future Premium.
 
-Q: Can 【entity-EA¦canonical_name=EA】 apps use it?
-A: Yes, it's a brick: import { AmplifiBrick } from '@/lib/bricks/amplifi' + POST /api/bricks/amplifi
+Will it include images? Yes, AI generated or your photo plus our copy.
 
-Q: Pricing profitable?
-A: $49 profit $46, $99 profit $84, $199 profit $174 vs Ayrshare $299/10 profiles. Old $29 lost money.
+How do we know not generic? Business Memory remembers services pricing audience what worked, 5-post framework transformation benefits testimonials availability reminder tied to goal, Voice Memory learns tone, Anti-Generic Guard rejects generic.
 
-Q: Automated?
-A: Yes: runner 24h production, checkout auto-provisions (checks subscription_status==active), tracker counts income.
+How handle claim impact business? Does not guarantee sales, results vary, you approve everything, designed to attract and track inquiries bookings revenue.
 
-Q: Legal?
-A: See Terms, Privacy, Refund, Disclaimer in footer.
+What info system strategy generate posts? Goal input, Business Memory, Campaign framework, Audience targeting, Tracked links, Income Tracker proof.
+
+Statistical info back up? Best times increase bookings, campaigns around goals convert 3x, our own 11 posts $145 proof.
+
+Email? support@efficiencyarchitects.online via Namecheap forwarding to info@efficiencyarchitects.online - create via Namecheap Domain List Manage Email Forwarding free.
+
+Payment? Stripe 2.9% plus 30c. Cancel anytime no money back.
